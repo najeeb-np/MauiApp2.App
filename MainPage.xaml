@@ -3,6 +3,6 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiApp2.MainPage">
 
-    <WebView Source="https://www.alislah.info" WidthRequest="8000" HeightRequest="8000" />
+    <WebView Source="https://www.alislah.info" />
 
 </ContentPage>
